@@ -1,4 +1,4 @@
-# Practice problems focusing on jump statements (return, break, and continue) in C++:
+# (Disney) Jump Statement Practice (return, break, and continue):
 
 ## 1. Mad Hatter's Tea Party:
 
