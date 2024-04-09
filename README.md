@@ -10,9 +10,11 @@ absence. (Hint: Use a `return` statement to exit the function when the character
 ## 2. Mickey's Magical Adventure:
 
 Write a function called `countSteps` that takes a vector of integers representing the number of
-steps Mickey Mouse takes on his magical adventure through the enchanted forest. Count how many
-steps Mickey takes before he encounters a large boulder blocking his path. Once the boulder is
-encountered, use a `break` statement to exit the loop and return the total number of steps taken.
+steps Mickey Mouse takes on his magical adventure through the enchanted forest. Mickey
+encounters a boulder blocking his path when his current step count is greater than 100 (inclusive).
+Count how many steps Mickey takes before he encounters a large boulder blocking his path. Once the
+boulder is encountered, use a `break` statement to exit the loop and return the total number of
+steps taken.
 
 ## 3. Ariel's Underwater Treasure Hunt:
 
@@ -46,7 +48,7 @@ This is what should be output from your main.cpp:
 Enter the character's name you want to find at the Mad Hatter's Tea Party: Alice
 Alice is at the Mad Hatter's Tea Party!
 Mickey encountered a boulder and stopped!
-Mickey took 400 steps before encountering a boulder.
+Mickey took 200 steps before encountering a boulder.
 Searching for treasures underwater...
 A treasure is found at depth 600 meters!
 A treasure is found at depth 700 meters!
