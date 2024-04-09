@@ -11,6 +11,8 @@ void findCharacter(const std::vector<std::string> &guests,
 
 // Problem 2: Mickey's Magical Adventure
 // Function to count steps until encountering a boulder
+// Mickey "encounters a boulder" when his current step count is greater than or
+// equal to 100.
 int countSteps(const std::vector<int> &steps) {
   // TODO: Implement the function to count steps until encountering a boulder
   // Use a loop and break statement when a boulder is encountered
@@ -48,4 +50,3 @@ int main() {
 
   return 0;
 }
-
